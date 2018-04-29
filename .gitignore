@@ -1,0 +1,4 @@
+# File with passwords and such
+.env
+
+cyclingKey.pem
